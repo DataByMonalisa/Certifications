@@ -10,3 +10,4 @@
 * #### Strategy Consulting Job Simulation - BCG. <br> https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/ntTvo6ru6Tq3A2JPq_BCG_miqqwmF6TaDw99Dib_1726071686219_completion_certificate.pdf
 * #### Project Management Job Simulation - CBRE <br> https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/CBRE/STkypM8iMfn4Gk9BF_CBRE_miqqwmF6TaDw99Dib_1727034577332_completion_certificate.pdf
 * #### Strategy Consulting Job Simulation - Accenture <br> https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/rMSFymzsPCwMGRun8_Accenture%20North%20America_miqqwmF6TaDw99Dib_1724515289149_completion_certificate.pdf
+* #### SQL Basics Certificate - HackerRank <br> https://www.hackerrank.com/certificates/iframe/40719eda5db1
